@@ -1,0 +1,19 @@
+.submit{
+    background: #234465;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    border:none;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.submit:hover{
+    background-color: white;
+    border: 2px solid #234465;
+    color: #234465;
+    font-style: italic;
+}
